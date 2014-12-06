@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		54A72BB91A3333C80092CA02 /* Image4.png in Resources */ = {isa = PBXBuildFile; fileRef = 54A72BB51A3333C80092CA02 /* Image4.png */; };
+		54A72BBA1A3333C80092CA02 /* Image4.png in Resources */ = {isa = PBXBuildFile; fileRef = 54A72BB51A3333C80092CA02 /* Image4.png */; };
+		54A72BBB1A3333C80092CA02 /* Image1.png in Resources */ = {isa = PBXBuildFile; fileRef = 54A72BB61A3333C80092CA02 /* Image1.png */; };
+		54A72BBC1A3333C80092CA02 /* Image1.png in Resources */ = {isa = PBXBuildFile; fileRef = 54A72BB61A3333C80092CA02 /* Image1.png */; };
+		54A72BBD1A3333C80092CA02 /* Image2.png in Resources */ = {isa = PBXBuildFile; fileRef = 54A72BB71A3333C80092CA02 /* Image2.png */; };
+		54A72BBE1A3333C80092CA02 /* Image2.png in Resources */ = {isa = PBXBuildFile; fileRef = 54A72BB71A3333C80092CA02 /* Image2.png */; };
+		54A72BBF1A3333C80092CA02 /* Image3.png in Resources */ = {isa = PBXBuildFile; fileRef = 54A72BB81A3333C80092CA02 /* Image3.png */; };
+		54A72BC01A3333C80092CA02 /* Image3.png in Resources */ = {isa = PBXBuildFile; fileRef = 54A72BB81A3333C80092CA02 /* Image3.png */; };
 		54AD52DB1A332631004B4078 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 54AD52DA1A332631004B4078 /* AppDelegate.m */; };
 		54AD52DD1A332631004B4078 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 54AD52DC1A332631004B4078 /* main.m */; };
 		54AD52E01A332631004B4078 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 54AD52DF1A332631004B4078 /* ViewController.m */; };
@@ -26,6 +34,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		54A72BB51A3333C80092CA02 /* Image4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Image4.png; sourceTree = "<group>"; };
+		54A72BB61A3333C80092CA02 /* Image1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Image1.png; sourceTree = "<group>"; };
+		54A72BB71A3333C80092CA02 /* Image2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Image2.png; sourceTree = "<group>"; };
+		54A72BB81A3333C80092CA02 /* Image3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Image3.png; sourceTree = "<group>"; };
 		54AD52D41A332631004B4078 /* Project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		54AD52D81A332631004B4078 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		54AD52D91A332631004B4078 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -111,6 +123,10 @@
 		54AD52EE1A332631004B4078 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				54A72BB51A3333C80092CA02 /* Image4.png */,
+				54A72BB61A3333C80092CA02 /* Image1.png */,
+				54A72BB71A3333C80092CA02 /* Image2.png */,
+				54A72BB81A3333C80092CA02 /* Image3.png */,
 				54AD52EF1A332631004B4078 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -196,6 +212,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				54A72BBD1A3333C80092CA02 /* Image2.png in Resources */,
+				54A72BBB1A3333C80092CA02 /* Image1.png in Resources */,
+				54A72BBF1A3333C80092CA02 /* Image3.png in Resources */,
+				54A72BB91A3333C80092CA02 /* Image4.png in Resources */,
 				54AD52E21A332631004B4078 /* Images.xcassets in Resources */,
 				54AD52E51A332631004B4078 /* Main.storyboard in Resources */,
 			);
@@ -205,6 +225,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				54A72BC01A3333C80092CA02 /* Image3.png in Resources */,
+				54A72BBA1A3333C80092CA02 /* Image4.png in Resources */,
+				54A72BBC1A3333C80092CA02 /* Image1.png in Resources */,
+				54A72BBE1A3333C80092CA02 /* Image2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -404,6 +428,7 @@
 				54AD52F61A332631004B4078 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		54AD52F71A332631004B4078 /* Build configuration list for PBXNativeTarget "ProjectTests" */ = {
 			isa = XCConfigurationList;
@@ -412,6 +437,7 @@
 				54AD52F91A332631004B4078 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
