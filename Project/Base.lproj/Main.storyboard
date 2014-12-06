@@ -672,7 +672,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="735" height="481"/>
                         <autoresizingMask key="autoresizingMask"/>
                         <subviews>
-                            <button verticalHuggingPriority="750" fixedFrame="YES" tag="2" translatesAutoresizingMaskIntoConstraints="NO" id="IDl-Xu-QZk" customClass="Next">
+                            <button verticalHuggingPriority="750" fixedFrame="YES" tag="2" translatesAutoresizingMaskIntoConstraints="NO" id="IDl-Xu-QZk">
                                 <rect key="frame" x="385" y="13" width="69" height="32"/>
                                 <buttonCell key="cell" type="push" title="Next" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="FvD-gp-aNy">
                                     <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
